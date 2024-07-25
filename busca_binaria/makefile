@@ -10,4 +10,4 @@ $(EXEC): $(SRC)
 	fpc -I$(INC_DIR) -o$(EXEC) -FE$(OBJ_DIR) $(SRC)
 
 clean:
-	rm -rf $(OBJ_DIR)/*.o $(EXEC)
+	rm -rf $(OBJ_DIR)/* $(EXEC)
