@@ -6,8 +6,14 @@ Este projeto constitui a implementação do trabalho final da disciplina de Ling
 ## Estrutura do Projeto
 
 - `busca_binaria`: Implementa um algoritmo de busca binária em Pascal.
-- `include/busca_binaria.pas`: Implementa uma multiplicação de duas matrizes em Pascal.
+- `mul_matrix`: Implementa uma multiplicação de duas matrizes em Pascal.
 - `docs`: Aprentesenta a documentação do projeto e o tutorial.
 
+## Compilação e Execução
 
 A forma de compilar e executar cada um dos algoritmos implementados é descrita dentro de suas respectivas pastas.
+
+
+## Autores
+
+Este projeto foi desenvolvido pelos alunos Diogo Tuler, Rafael Martins, Beatriz, Izadora e João Marcos Campos, do Departamento de Ciência da Computação da UFMG.

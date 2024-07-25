@@ -18,12 +18,12 @@ Este projeto implementa a multiplicação de duas matrizes em Pascal.
 
 ## Como Executar
 
-Após a compilação, o executável estará na pasta `bin`. Para executar o programa, use o comando:
-./bin/MultiplicacaoMatrizes <arquivo_matriz_A> <arquivo_matriz_B> <arquivo_resultado>
+Após a compilação, o executável estará na pasta `bin`. Para executar o programa, primeiro coloque os arquivos `.txt` contendo as matrizes na pasta `data`, use o comando:
+./bin/MultiplicacaoMatrizes data/<arquivo_matriz_A> data/<arquivo_matriz_B> data/<arquivo_resultado>
 
 - `<arquivo_matriz_A>`: Nome do arquivo que contém a matriz A.
 - `<arquivo_matriz_B>`: Nome do arquivo que contém a matriz B.
-- `<arquivo_resultado>`: Nome do arquivo onde a matriz resultante será armazenada.
+- `<arquivo_resultado>`: Nome do arquivo onde a matriz resultante será armazenada, recomendavel colocar na pasta `data`.
 
 Exemplo:
-./bin/MultiplicacaoMatrizes matrizA.txt matrizB.txt resultado.txt
+./bin/MultiplicacaoMatrizes data/matrizA.txt data/matrizB.txt data/resultadoAB.txt

@@ -5,7 +5,7 @@ Este projeto implementa um algoritmo de busca binária em Pascal.
 ## Estrutura do Projeto
 
 - `src/main.pas`: Arquivo principal que executa a busca binária.
-- `include/busca_binaria.pas`: Implementação das funções utilizadas no algoritmo de busca binária.
+- `src/BuscaBinaria.pas`: Implementação das funções utilizadas no algoritmo de busca binária.
 - `Makefile`: Script para compilar o projeto.
 - `bin/`: Diretório onde o executável será gerado.
 - `obj/`: Diretório para arquivos objeto.
