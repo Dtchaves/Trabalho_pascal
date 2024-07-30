@@ -26,4 +26,4 @@ Após a compilação, o executável estará na pasta `bin`. Para executar o prog
 - `<inteiro_k>`: Inteiro a ser procurado no vetor.
 
 Exemplo:
-./bin/busca_binaria data/numeros.txt 42
+./bin/MainBuscaBinaria data/numeros.txt 42

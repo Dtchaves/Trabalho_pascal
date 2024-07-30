@@ -26,4 +26,4 @@ Após a compilação, o executável estará na pasta `bin`. Para executar o prog
 - `<arquivo_resultado>`: Nome do arquivo onde a matriz resultante será armazenada, recomendavel colocar na pasta `data`.
 
 Exemplo:
-./bin/MultiplicacaoMatrizes data/matrizA.txt data/matrizB.txt data/resultadoAB.txt
+./bin/MultiplicacaoMatrizes data/matriz1.txt data/matriz2.txt data/resultadoAB.txt
